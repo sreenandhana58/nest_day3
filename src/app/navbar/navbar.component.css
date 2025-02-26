@@ -1,0 +1,9 @@
+ul{
+    background-color: paleturquoise;
+    padding: 20px;
+    color:white;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}
